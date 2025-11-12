@@ -2,8 +2,6 @@
 
 ### 🎯 A História por Trás do Projeto
 
-Gente, a curiosidade me pegou! 😅
-
 Eu estava vendo aquela **calculadora de Imposto de Renda** do **G1** (a da proposta para 2026, caso seja aprovada) e pensei: "Dá para fazer isso aqui em Python!".
 
 Então, este projeto nasceu disso: é uma **simulação** que mostra o quanto você pode *ganhar* (mensal e anualmente) com a nova regra do desconto simplificado. É pura lógica e matemática, mas rodando em código! 🤓
